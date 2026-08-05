@@ -1,0 +1,13 @@
+header{
+    background-color:rgb(57, 53, 250);
+    color:white;
+    padding: 20px;
+}
+body{
+    background-color:rgb(13, 13, 206);
+    color:white;
+}
+nav{
+    color:yellow;
+    text-align:center;
+}
